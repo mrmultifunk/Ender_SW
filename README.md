@@ -30,6 +30,8 @@ And last but not least…
 -The side extensions. Front and rear side extensions are designed to extend the frame for aesthetical and a few practical reasons (clearance and NO MORE NOTCH). They are sturdy enough but keep in mind that you will not move around the printer by lifting it from there.
 
 ![Home](1.1_crop.png)
+![Home](2.1.png)
+![Home](2.2.png)
 
 ## Info
 
