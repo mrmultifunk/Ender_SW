@@ -32,6 +32,7 @@ And last but not least…
 ![Home](1.1_crop.png)
 ![Home](2.1.png)
 ![Home](2.2.png)
+![Home](2.3.png)
 
 ## Info
 
